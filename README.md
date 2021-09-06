@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there! I'm Amine 👋 
+- 🎓 I'm a CS Student at Graz University of Technology.
+- 🌱 I’m currently learning React.js and other web technologies.
+- 👯 I’m looking to collaborate on big projects.
+- ⚡ Fun fact: I love playing chess ♟️ and watching ⚽.
 <!--
 **MeeedAmine/MeeedAmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
