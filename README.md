@@ -1,6 +1,6 @@
 ### Hi there! I'm Amine 👋 
-- 🎓 I'm a CS Student at Graz University of Technology.
-- 🌱 I’m currently learning React.js and TypeScript.
+- 🎓 I'm a CS graduate from Graz University of Technology.
+- 🌱 I’m currently learning exploring more of Angular and TypeScript.
 - 👯 I’m looking to collaborate on big projects.
 - ⚡ Fun fact: I love playing chess ♟️ and watching ⚽.
 <!--
